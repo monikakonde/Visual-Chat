@@ -6,7 +6,7 @@ Uploade Image
 Generated Cpation
 ![image](https://github.com/user-attachments/assets/868743ca-836b-4c09-819b-a4f02d34af33)
 
-Generated Similar Images
+   Generated Similar Images
 ![sI_dog](https://github.com/user-attachments/assets/c3bb7125-6aab-46df-92a4-19c83dae24c7)
 
 
