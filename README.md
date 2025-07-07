@@ -2,8 +2,8 @@ UserInterface
 ![image](https://github.com/user-attachments/assets/792d19ff-01fb-4f0d-9d52-25ba2ee2cb02)
 Uploade Image 
 ![WhatsApp Image 2025-07-07 at 10 15 40 PM](https://github.com/user-attachments/assets/72c866e1-d5e3-4415-b611-83d1afd594d9)
-         Generated Cpation
-![image](https://github.com/user-attachments/assets/868743ca-836b-4c09-819b-a4f02d34af33)
+
+ Generated Cpation ![image](https://github.com/user-attachments/assets/868743ca-836b-4c09-819b-a4f02d34af33)
 
    Generated Similar Images
 ![sI_dog](https://github.com/user-attachments/assets/c3bb7125-6aab-46df-92a4-19c83dae24c7)
